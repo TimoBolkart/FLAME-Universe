@@ -5,7 +5,7 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME)
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization)
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting)
-- [https://github.com/TimoBolkart/BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME)
+- [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME)
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch)
 - [RingNet](https://github.com/soubhiksanyal/RingNet)
 - [DECA](https://github.com/YadiraF/DECA)
