@@ -1,4 +1,23 @@
 # FLAME Ressources
 
-FLAME is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. FLAME combines a linear identity shape space (trained from head scans of 3800 subjects) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes. For details please see the [scientific publication](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)
+FLAME is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. FLAME combines a linear identity shape space (trained from head scans of 3800 subjects) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes. For details please see the [scientific publication](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf).
 
+- [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME)
+- [photometric_optimization](https://github.com/HavenFeng/photometric_optimization)
+- [flame-fitting](https://github.com/Rubikplayer/flame-fitting)
+- [https://github.com/TimoBolkart/BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME)
+- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch)
+- [RingNet](https://github.com/soubhiksanyal/RingNet)
+- [DECA](https://github.com/YadiraF/DECA)
+- [GIF](https://github.com/ParthaEth/GIF)
+- [VOCA](https://github.com/TimoBolkart/voca)
+- [EMOCA](https://github.com/radekd91/emoca)
+
+
+- [neural-head-avatars](https://github.com/philgras/neural-head-avatars)
+- [video-head-tracker](https://github.com/philgras/video-head-tracker)
+
+
+## Code
+
+## Datasets
