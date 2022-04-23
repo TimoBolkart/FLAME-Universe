@@ -18,6 +18,8 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 - [video-head-tracker](https://github.com/philgras/video-head-tracker)
 - [SAFA](https://github.com/Qiulin-W/SAFA)
 
+- [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on)
+
 
 ## Code
 
