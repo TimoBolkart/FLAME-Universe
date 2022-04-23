@@ -16,6 +16,7 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars)
 - [video-head-tracker](https://github.com/philgras/video-head-tracker)
+- [SAFA](https://github.com/Qiulin-W/SAFA)
 
 
 ## Code
