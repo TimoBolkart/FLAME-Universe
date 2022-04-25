@@ -7,12 +7,8 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting)
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME)
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch)
-- [RingNet](https://github.com/soubhiksanyal/RingNet)
-- [DECA](https://github.com/YadiraF/DECA)
 - [GIF](https://github.com/ParthaEth/GIF)
 - [VOCA](https://github.com/TimoBolkart/voca)
-- [EMOCA](https://github.com/radekd91/emoca)
-
 
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars)
 - [video-head-tracker](https://github.com/philgras/video-head-tracker)
@@ -20,7 +16,22 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on)
 
-
 ## Code
 
+List of public repositories that use FLAME.
+
+- [EMOCA](https://github.com/radekd91/emoca)
+- [DECA](https://github.com/YadiraF/DECA)
+- [RingNet](https://github.com/soubhiksanyal/RingNet)
+
+
 ## Datasets
+
+List of datasets with meshes in FLAME topology. 
+
+- [VOCASET](https://github.com/TimoBolkart/voca)
+- [CoMA dataset](https://coma.is.tue.mpg.de/download.php)
+- [D3DFACS](https://flame.is.tue.mpg.de/download.php)
+- [LYHM](https://www-users.cs.york.ac.uk/~nep/research/Headspace/)
+
+
