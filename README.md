@@ -20,6 +20,7 @@ List of public repositories that use FLAME.
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars)
 - [video-head-tracker](https://github.com/philgras/video-head-tracker)
 - [SAFA](https://github.com/Qiulin-W/SAFA)
+- [learning2listen](https://github.com/evonneng/learning2listen)
 
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on)
 
