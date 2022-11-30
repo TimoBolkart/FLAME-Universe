@@ -1,4 +1,5 @@
-# :fire: FLAME Universe :fire:
+<h1 align="center">:fire: FLAME Universe :fire:</h1>
+
 
 <p align="center"> 
 <img src="gifs/model_variations.gif">
