@@ -35,6 +35,8 @@ List of datasets with meshes in FLAME topology.
 
 ## Publications
 
+List of FLAME-based scientific publications.
+
 #### 2022
 
 - [Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf)
