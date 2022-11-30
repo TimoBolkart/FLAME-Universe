@@ -9,7 +9,7 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 
 ## Code
 
-List of public repositories that use FLAME.
+List of public repositories that use FLAME (alphabetical order).
 
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
