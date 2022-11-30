@@ -20,7 +20,7 @@ List of public repositories that use FLAME.
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.  
-- [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D landmarks, 3D landmarks, meshes in FLAME topology, or sample textured meshes. 
+- [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
 - [video-head-tracker](https://github.com/philgras/video-head-tracker): Track 3D heads in video sequences. 
 - [VOCA](https://github.com/TimoBolkart/voca): Speech-driven facial animation of meshes in FLAME mesh topology.
 
