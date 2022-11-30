@@ -14,7 +14,7 @@ List of public repositories that use FLAME.
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
-- [learning2listen](https://github.com/evonneng/learning2listen)
+- [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations. 
 - [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image. 
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences. 
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
