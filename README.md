@@ -6,23 +6,23 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 
 List of public repositories that use FLAME.
 
-- [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Framework to fit FLAME to 2D landmarks, 3D landmarks, meshes in FLAME topology, or sample textured meshes. 
-- [EMOCA](https://github.com/radekd91/emoca): Given a single image, reconstruction of 3D faces with facial expression detail that convey the emotional state of the input.
-- [DECA](https://github.com/YadiraF/DECA):  Given a single image, reconstruction of 3D faces with animatable facial expression detail.
-- [RingNet](https://github.com/soubhiksanyal/RingNet): Given a single image, reconstruction of 3D faces. 
-- [photometric_optimization](https://github.com/HavenFeng/photometric_optimization)
-- [flame-fitting](https://github.com/Rubikplayer/flame-fitting)
-- [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME)
-- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch)
-- [GIF](https://github.com/ParthaEth/GIF)
-- [VOCA](https://github.com/TimoBolkart/voca)
-
-- [neural-head-avatars](https://github.com/philgras/neural-head-avatars)
-- [video-head-tracker](https://github.com/philgras/video-head-tracker)
-- [SAFA](https://github.com/Qiulin-W/SAFA)
+- [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
+- [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
+- [EMOCA](https://github.com/radekd91/emoca): Reconstruction of emotional 3D faces from a single image.
+- [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
+- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer. 
+- [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
+- [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
+- [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [learning2listen](https://github.com/evonneng/learning2listen)
-
-- [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on)
+- [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image. 
+- [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences. 
+- [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
+- [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
+- [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.  
+- [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D landmarks, 3D landmarks, meshes in FLAME topology, or sample textured meshes. 
+- [video-head-tracker](https://github.com/philgras/video-head-tracker): Track 3D heads in video sequences. 
+- [VOCA](https://github.com/TimoBolkart/voca): Speech-driven facial animation of meshes in FLAME mesh topology.
 
 ## Datasets
 
