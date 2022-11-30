@@ -1,4 +1,4 @@
-# FLAME Universe
+# :fire: FLAME Universe :fire:
 
 <p align="center"> 
 <img src="gifs/model_variations.gif">
