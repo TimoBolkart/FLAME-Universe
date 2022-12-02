@@ -14,10 +14,11 @@ List of public repositories that use FLAME (alphabetical order).
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
 - [EMOCA](https://github.com/radekd91/emoca): Reconstruction of emotional 3D faces from a single image.
+- [expgan](https://github.com/kakaobrain/expgan): Face image generation with expression control.
 - [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
-- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer. 
-- [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
+- [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
+- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer. 
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations. 
 - [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image. 
@@ -26,6 +27,7 @@ List of public repositories that use FLAME (alphabetical order).
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.  
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
+- [TRUST](https://github.com/HavenFeng/TRUST): Racially unbiased skin tone extimation from images.
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
 - [video-head-tracker](https://github.com/philgras/video-head-tracker): Track 3D heads in video sequences. 
 - [VOCA](https://github.com/TimoBolkart/voca): Speech-driven facial animation of meshes in FLAME mesh topology.
@@ -65,6 +67,7 @@ List of FLAME-based scientific publications.
 - [Generating Diverse 3D Reconstructions from a Single Occluded Face Image (CVPR 2022)](https://arxiv.org/pdf/2112.00879.pdf)
 - [Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation (CVPR-W 2022)](https://arxiv.org/pdf/2011.11534.pdf)
 - [MOST-GAN: 3D Morphable StyleGAN for Disentangled Face Image Manipulation (AAAI 2022)](https://arxiv.org/pdf/2111.01048.pdf)
+- [Exp-GAN: 3D-Aware Facial Image Generation with Expression Control (ACCV 2022)](https://openaccess.thecvf.com/content/ACCV2022/papers/Lee_Exp-GAN_3D-Aware_Facial_Image_Generation_with_Expression_Control_ACCV_2022_paper.pdf)
 
 #### 2021
 
