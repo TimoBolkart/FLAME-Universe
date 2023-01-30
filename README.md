@@ -53,6 +53,11 @@ List of datasets with meshes in FLAME topology.
 
 List of FLAME-based scientific publications.
 
+
+#### 2023
+
+- [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
+
 #### 2022
 
 - [Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf)
