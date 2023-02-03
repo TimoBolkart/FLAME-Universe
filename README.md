@@ -56,6 +56,7 @@ List of FLAME-based scientific publications.
 
 #### 2023
 
+- [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf)
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
 
 #### 2022
