@@ -28,6 +28,7 @@ List of public repositories that use FLAME (alphabetical order).
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences. 
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
+- [ROME](https://github.com/SamsungLabs/rome): Creation of personalized avatar from a single image.
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.  
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
 - [TRUST](https://github.com/HavenFeng/TRUST): Racially unbiased skin tone extimation from images.
