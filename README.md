@@ -10,8 +10,9 @@ FLAME is a lightweight and expressive generic head model learned from over 33,00
 We aim at keeping the list up to date. Please feel free to add missing FLAME-based ressources (publications, code repositories, datasets) either in the discussions or in a pull request. 
 
 ## Code
+<details>
 
-List of public repositories that use FLAME (alphabetical order).
+<summary>List of public repositories that use FLAME (alphabetical order).</summary>
 
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
@@ -36,9 +37,12 @@ List of public repositories that use FLAME (alphabetical order).
 - [video-head-tracker](https://github.com/philgras/video-head-tracker): Track 3D heads in video sequences. 
 - [VOCA](https://github.com/TimoBolkart/voca): Speech-driven facial animation of meshes in FLAME mesh topology.
 
+</details>
+
 ## Datasets
 
-List of datasets with meshes in FLAME topology. 
+<details>
+<summary>List of datasets with meshes in FLAME topology. </summary>
 
 - [VOCASET](https://github.com/TimoBolkart/voca): 12 subjects, 40 speech sequences each with synchronized audio
 - [CoMA dataset](https://coma.is.tue.mpg.de/download.php): 12 subjects, 12 extreme dynamic expressions each.
@@ -50,15 +54,18 @@ List of datasets with meshes in FLAME topology.
 - [FRGC](https://github.com/Zielon/MICA/tree/master/datasets): 531 subjects, one neutral expression mesh each. 
 - [BP4D+](https://github.com/Zielon/MICA/tree/master/datasets): 127 subjects, one neutral expression mesh each. 
 
+</details>
+
 ## Publications
 
-List of FLAME-based scientific publications.
-
+<details>
+<summary>List of FLAME-based scientific publications.</summary>
 
 #### 2023
 
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf)
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
+- [PointAvatar: Deformable Point-based Head Avatars from Videos](https://arxiv.org/pdf/2212.08377.pdf)
 
 #### 2022
 
@@ -96,7 +103,7 @@ List of FLAME-based scientific publications.
 
 - [Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision (CVPR 2019)](https://arxiv.org/pdf/1905.06817.pdf)
 
-
+</details>
 
 
 
