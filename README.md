@@ -63,6 +63,7 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 #### 2023
 
+- [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf)
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf)
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
 - [PointAvatar: Deformable Point-based Head Avatars from Videos](https://arxiv.org/pdf/2212.08377.pdf)
