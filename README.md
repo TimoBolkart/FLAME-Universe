@@ -25,7 +25,8 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations. 
 - [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image. 
-- [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos. 
+- [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos.
+- [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.  
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences. 
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
@@ -68,10 +69,10 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
 - [Instant Volumetric Head Avatars (CVPR 2023)](https://arxiv.org/pdf/2211.12499.pdf)
 - [PointAvatar: Deformable Point-based Head Avatars from Videos (CVPR 2023)](https://arxiv.org/pdf/2212.08377.pdf)
-
+- [Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars (CVPR 2023)](https://arxiv.org/pdf/2211.11208.pdf)
+  
 #### 2022
 
-- [Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars](https://arxiv.org/pdf/2211.11208.pdf)
 - [Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos](https://arxiv.org/pdf/2207.11094.pdf)
 - [Realistic One-shot Mesh-based Head Avatars (ECCV 2022)](https://arxiv.org/pdf/2206.08343.pdf)
 - [Towards Metrical Reconstruction of Human Faces (ECCV 2022)](https://arxiv.org/pdf/2204.06607.pdf)
