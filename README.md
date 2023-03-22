@@ -23,8 +23,11 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer. 
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
+- [INSTA](https://github.com/Zielon/INSTA): Volumetric head avatars from videos in less than 10 minutes. 
+- [INSTA-pytorch](https://github.com/Zielon/INSTA-pytorch): Volumetric head avatars from videos in less than 10 minutes (PyTorch).
 - [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations. 
 - [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image. 
+- [metrical-tracker](https://github.com/Zielon/metrical-tracker): Metrical face tracker for monocular videos.
 - [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos.
 - [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.  
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences. 
