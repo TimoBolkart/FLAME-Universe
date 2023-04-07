@@ -68,6 +68,8 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 #### 2023
 
+  
+- [Learning Personalized High Quality Volumetric Head Avatars](https://arxiv.org/pdf/2304.01436.pdf)
 - [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf)
 - [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf)
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf)
