@@ -16,6 +16,7 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
+- [diffusion-rig](https://github.com/adobe-research/diffusion-rig): Personalized model to edit facial expressions, head pose, and lighting in portrait images.
 - [EMOCA](https://github.com/radekd91/emoca): Reconstruction of emotional 3D faces from a single image.
 - [expgan](https://github.com/kakaobrain/expgan): Face image generation with expression control.
 - [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
@@ -68,7 +69,6 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 <summary>List of FLAME-based scientific publications.</summary>
 
 #### 2023
-
   
 - [Learning Personalized High Quality Volumetric Head Avatars](https://arxiv.org/pdf/2304.01436.pdf)
 - [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf)
@@ -76,6 +76,7 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf)
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
 - [Imitator: Personalized Speech-driven 3D Facial Animation](https://arxiv.org/pdf/2301.00023.pdf)
+- [DiffusionRig: Learning Personalized Priors for Facial Appearance Editing (CVPR 2023)](https://arxiv.org/pdf/2304.06711.pdf)
 - [High-Res Facial Appearance Capture from Polarized Smartphone Images (CVPR 2023)](https://arxiv.org/pdf/2212.01160.pdf)
 - [Instant Volumetric Head Avatars (CVPR 2023)](https://arxiv.org/pdf/2211.12499.pdf)
 - [PointAvatar: Deformable Point-based Head Avatars from Videos (CVPR 2023)](https://arxiv.org/pdf/2212.08377.pdf)
