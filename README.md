@@ -70,12 +70,13 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 #### 2023
   
-- [Learning Personalized High Quality Volumetric Head Avatars](https://arxiv.org/pdf/2304.01436.pdf)
+- [Towards Realistic Generative 3D Face Models](https://arxiv.org/pdf/2304.12483.pdf)
 - [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf)
 - [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf)
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf)
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf)
 - [Imitator: Personalized Speech-driven 3D Facial Animation](https://arxiv.org/pdf/2301.00023.pdf)
+- [Learning Personalized High Quality Volumetric Head Avatars (CVPR 2023)](https://arxiv.org/pdf/2304.01436.pdf)
 - [DiffusionRig: Learning Personalized Priors for Facial Appearance Editing (CVPR 2023)](https://arxiv.org/pdf/2304.06711.pdf)
 - [High-Res Facial Appearance Capture from Polarized Smartphone Images (CVPR 2023)](https://arxiv.org/pdf/2212.01160.pdf)
 - [Instant Volumetric Head Avatars (CVPR 2023)](https://arxiv.org/pdf/2211.12499.pdf)
