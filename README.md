@@ -35,7 +35,8 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
 - [ROME](https://github.com/SamsungLabs/rome): Creation of personalized avatar from a single image.
-- [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.  
+- [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.
+- [Semantify](https://github.com/Omergral/Semantify): Semantic control over 3DMM parameters. 
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
 - [TRUST](https://github.com/HavenFeng/TRUST): Racially unbiased skin tone extimation from images.
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
@@ -70,6 +71,7 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 #### 2023
 
+- [Semantify: Simplifying the Control of 3D Morphable Models using CLIP (ICCV 2023)](https://arxiv.org/pdf/2308.07415.pdf)
 - [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/pdf/2306.10799.pdf).
 - [Towards Realistic Generative 3D Face Models](https://arxiv.org/pdf/2304.12483.pdf)
 - [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf)
