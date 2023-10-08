@@ -10,9 +10,10 @@ We aim at keeping the list up to date. You are invited to add missing FLAME-base
 </p>
 
 
-<h2 align="center">What is FLAME?</h2>
+<h2 align="center">:fire: FLAME :fire:</h2>
 
 <details>
+<summary>Never heard of FLAME?</summary>
 
 <p align="center"> 
 <img src="gifs/model_variations.gif">
@@ -27,8 +28,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 <h2 align="center">Code</h2>
 
-<details>
-
+<details open>
 <summary>List of public repositories that use FLAME (alphabetical order).</summary>
 
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
@@ -66,7 +66,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 <h2 align="center">Datasets</h2>
 
-<details>
+<details open>
 <summary>List of datasets with meshes in FLAME topology. </summary>
 
 - [BP4D+](https://github.com/Zielon/MICA/tree/master/datasets): 127 subjects, one neutral expression mesh each. 
@@ -87,7 +87,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 <h2 align="center">Publications</h2>
 
-<details>
+<details open>
 <summary>List of FLAME-based scientific publications.</summary>
 
 #### 2023
