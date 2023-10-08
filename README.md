@@ -1,15 +1,33 @@
 <h1 align="center">:fire: FLAME Universe :fire:</h1>
 
+This repository presents a list of publicly available ressources such as code, datasets, and scientific papers for the :fire: [FLAME](https://flame.is.tue.mpg.de/) :fire: 3D head model.
+We aim at keeping the list up to date. You are invited to add missing FLAME-based ressources (publications, code repositories, datasets) either in the discussions or in a pull request.
+
+<p>
+  <p align="center"> 
+  <img src="gifs/collection.png">
+  </p>
+</p>
+
+
+<h2 align="center">What is FLAME?</h2>
+
+<details>
 
 <p align="center"> 
 <img src="gifs/model_variations.gif">
 </p>
 
-FLAME is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. FLAME combines a linear identity shape space (trained from head scans of 3800 subjects) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes. For details please see the [scientific publication](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf).
+</details>
 
-We aim at keeping the list up to date. Please feel free to add missing FLAME-based ressources (publications, code repositories, datasets) either in the discussions or in a pull request. 
+FLAME is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. 
+FLAME combines a linear identity shape space (trained from head scans of 3800 subjects) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes. 
+For details please see the [scientific publication](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf).
+FLAME is publicly available under [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
 
-## Code
+
+<h2 align="center">Code</h2>
+
 <details>
 
 <summary>List of public repositories that use FLAME (alphabetical order).</summary>
@@ -45,7 +63,9 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 </details>
 
-## Datasets
+
+
+<h2 align="center">Datasets</h2>
 
 <details>
 <summary>List of datasets with meshes in FLAME topology. </summary>
@@ -64,7 +84,9 @@ We aim at keeping the list up to date. Please feel free to add missing FLAME-bas
 
 </details>
 
-## Publications
+
+
+<h2 align="center">Publications</h2>
 
 <details>
 <summary>List of FLAME-based scientific publications.</summary>
