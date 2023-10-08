@@ -92,6 +92,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2023
 
+- [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [Emotional Speech-Driven Animation with Content-Emotion Disentanglement (SIGGRAPH Asia 2023)](https://arxiv.org/pdf/2306.08990.pdf).
 - [Decaf: Monocular Deformation Capture for Face and Hand Interactions (SIGGRAPH Asia 2023)](https://vcai.mpi-inf.mpg.de/projects/Decaf/static/paper.pdf).
 - [Accurate 3D Face Reconstruction with Facial Component Tokens (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.pdf)
