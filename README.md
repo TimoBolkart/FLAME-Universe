@@ -35,6 +35,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
 - [diffusion-rig](https://github.com/adobe-research/diffusion-rig): Personalized model to edit facial expressions, head pose, and lighting in portrait images.
 - [EMOCA](https://github.com/radekd91/emoca): Reconstruction of emotional 3D faces from a single image.
+- [EMOTE](https://github.com/radekd91/inferno/tree/release/EMOTE/inferno_apps/TalkingHead): Emotional speech-driven 3D face animation.
 - [expgan](https://github.com/kakaobrain/expgan): Face image generation with expression control.
 - [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
@@ -96,7 +97,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2023
 
-- [LaughTalk: Expressive 3D Talking Head Generation with Laughter](https://arxiv.org/pdf/2311.00994.pdf)
+- [LaughTalk: Expressive 3D Talking Head Generation with Laughter](https://arxiv.org/pdf/2311.00994.pdf).
 - [A Perceptual Shape Loss for Monocular 3D Face Reconstruction (Pacific Graphics 2023)](https://studios.disneyresearch.com/app/uploads/2023/09/A-Perceptual-Shape-Loss-for-Monocular-3D-Face-Reconstruction-Paper.pdf).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [FLARE: Fast Learning of Animatable and Relightable Mesh Avatars (SIGGRAPH Asia 2023)](https://drive.google.com/file/d/1iiON_x9d2E4erP2n-2A4JQ-piHr5kdQ3/view?pli=1).
