@@ -97,6 +97,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2023
 
+- [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing](https://arxiv.org/pdf/2312.03763.pdf).
 - [3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing](https://arxiv.org/pdf/2312.00870.pdf).
 - [LaughTalk: Expressive 3D Talking Head Generation with Laughter](https://arxiv.org/pdf/2311.00994.pdf).
 - [A Perceptual Shape Loss for Monocular 3D Face Reconstruction (Pacific Graphics 2023)](https://studios.disneyresearch.com/app/uploads/2023/09/A-Perceptual-Shape-Loss-for-Monocular-3D-Face-Reconstruction-Paper.pdf).
