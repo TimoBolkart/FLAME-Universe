@@ -40,7 +40,8 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
-- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer. 
+- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer.
+- [GANHead](https://github.com/wsj-sjtu/GANHead) Animatable neural head avatar.
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [INSTA](https://github.com/Zielon/INSTA): Volumetric head avatars from videos in less than 10 minutes. 
 - [INSTA-pytorch](https://github.com/Zielon/INSTA-pytorch): Volumetric head avatars from videos in less than 10 minutes (PyTorch).
@@ -118,6 +119,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf).
 - [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf).
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models (SIGGRAPH 2023)](https://arxiv.org/pdf/2212.01406.pdf).
+- [GANHead: Towards Generative Animatable Neural Head Avatars (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_GANHead_Towards_Generative_Animatable_Neural_Head_Avatars_CVPR_2023_paper.pdf).
 - [Implicit Neural Head Synthesis via Controllable Local Deformation Fields (CVPR 2023)](https://arxiv.org/pdf/2304.11113.pdf).
 - [DiffusionRig: Learning Personalized Priors for Facial Appearance Editing (CVPR 2023)](https://arxiv.org/pdf/2304.06711.pdf).
 - [High-Res Facial Appearance Capture from Polarized Smartphone Images (CVPR 2023)](https://arxiv.org/pdf/2212.01160.pdf).
