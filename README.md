@@ -50,8 +50,9 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [metrical-tracker](https://github.com/Zielon/metrical-tracker): Metrical face tracker for monocular videos.
 - [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos.
 - [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.  
-- [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences. 
-- [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering. 
+- [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences.
+- [NeRSemble](https://github.com/tobias-kirschstein/nersemble): Building a neural head avatar from multi-view video data.
+- [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering.- 
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
 - [ROME](https://github.com/SamsungLabs/rome): Creation of personalized avatar from a single image.
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.
@@ -74,11 +75,14 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [BP4D+](https://github.com/Zielon/MICA/tree/master/datasets): 127 subjects, one neutral expression mesh each. 
 - [CoMA dataset](https://coma.is.tue.mpg.de/download.php): 12 subjects, 12 extreme dynamic expressions each.
 - [D3DFACS](https://flame.is.tue.mpg.de/download.php): 10 subjects, 519 dynamic expressions in total.
+- [Decaf dataset](https://github.com/soshishimada/DecafDatasetScript): Deformation capture for fance and hand interactions.
 - [FaceWarehouse](http://kunzhou.net/zjugaps/facewarehouse/): 150 subjects, one neutral expression mesh each. 
 - [FaMoS](https://tempeh.is.tue.mpg.de/): 95 subjects, 28 dynamic expressions and head poses each, about 600K frames in total.
 - [Florence 2D/3D](https://github.com/Zielon/MICA/tree/master/datasets): 53 subjects, one neutral expression mesh each. 
 - [FRGC](https://github.com/Zielon/MICA/tree/master/datasets): 531 subjects, one neutral expression mesh each. 
-- [LYHM](https://www-users.cs.york.ac.uk/~nep/research/Headspace/): 1216 subjects, one neutral expression mesh each. 
+- [LYHM](https://www-users.cs.york.ac.uk/~nep/research/Headspace/): 1216 subjects, one neutral expression mesh each.
+- [MEAD reconstructions](https://github.com/radekd91/inferno/tree/release/EMOTE/inferno_apps/TalkingHead): 3D face reconstructions for MEAD (emotional talking-face dataset).
+- [NeRSemble dataset](https://github.com/tobias-kirschstein/nersemble): 10 sequences of multi-view images and 3D faces in FLAME mesh topology.
 - [Stirling](https://github.com/Zielon/MICA/tree/master/datasets): 133 subjects, one neutral expression mesh each. 
 - [VOCASET](https://github.com/TimoBolkart/voca): 12 subjects, 40 speech sequences each with synchronized audio.
 
@@ -94,6 +98,8 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
+- [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
+  
 - [Towards Realistic Generative 3D Face Models (WACV 2024)](https://arxiv.org/pdf/2304.12483.pdf).
 
 #### 2023
@@ -103,8 +109,15 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing](https://arxiv.org/pdf/2312.03763.pdf).
 - [3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing](https://arxiv.org/pdf/2312.00870.pdf).
 - [LaughTalk: Expressive 3D Talking Head Generation with Laughter](https://arxiv.org/pdf/2311.00994.pdf).
-- [A Perceptual Shape Loss for Monocular 3D Face Reconstruction (Pacific Graphics 2023)](https://studios.disneyresearch.com/app/uploads/2023/09/A-Perceptual-Shape-Loss-for-Monocular-3D-Face-Reconstruction-Paper.pdf).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://browse.arxiv.org/pdf/2310.00434.pdf).
+- [Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models](https://arxiv.org/pdf/2307.04859.pdf).
+- [Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face](https://arxiv.org/pdf/2307.13639.pdf).
+- [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/pdf/2306.10799.pdf).
+- [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf).
+- [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf).
+- [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf).
+
+- [A Perceptual Shape Loss for Monocular 3D Face Reconstruction (Pacific Graphics 2023)](https://studios.disneyresearch.com/app/uploads/2023/09/A-Perceptual-Shape-Loss-for-Monocular-3D-Face-Reconstruction-Paper.pdf).
 - [FLARE: Fast Learning of Animatable and Relightable Mesh Avatars (SIGGRAPH Asia 2023)](https://drive.google.com/file/d/1iiON_x9d2E4erP2n-2A4JQ-piHr5kdQ3/view?pli=1).
 - [Emotional Speech-Driven Animation with Content-Emotion Disentanglement (SIGGRAPH Asia 2023)](https://arxiv.org/pdf/2306.08990.pdf).
 - [Decaf: Monocular Deformation Capture for Face and Hand Interactions (SIGGRAPH Asia 2023)](https://vcai.mpi-inf.mpg.de/projects/Decaf/static/paper.pdf).
@@ -112,12 +125,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper.pdf).
 - [Semantify: Simplifying the Control of 3D Morphable Models using CLIP (ICCV 2023)](https://arxiv.org/pdf/2308.07415.pdf).
 - [Imitator: Personalized Speech-driven 3D Facial Animation (ICCV 2023)](https://arxiv.org/pdf/2301.00023.pdf).
-- [Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models](https://arxiv.org/pdf/2307.04859.pdf).
-- [Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face](https://arxiv.org/pdf/2307.13639.pdf).
-- [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/pdf/2306.10799.pdf).
-- [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf).
-- [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf).
-- [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf).
+- [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads (SIGGRAPH 2023)](https://arxiv.org/pdf/2305.03027.pdf).
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models (SIGGRAPH 2023)](https://arxiv.org/pdf/2212.01406.pdf).
 - [GANHead: Towards Generative Animatable Neural Head Avatars (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_GANHead_Towards_Generative_Animatable_Neural_Head_Avatars_CVPR_2023_paper.pdf).
 - [Implicit Neural Head Synthesis via Controllable Local Deformation Fields (CVPR 2023)](https://arxiv.org/pdf/2304.11113.pdf).
