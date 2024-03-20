@@ -103,6 +103,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2023
 
+- [DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion](https://arxiv.org/pdf/2310.05934.pdf)
 - [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/pdf/2312.14140.pdf).
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/pdf/2312.02069.pdf).
 - [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing](https://arxiv.org/pdf/2312.03763.pdf).
