@@ -99,7 +99,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
-- [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
+- [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
 - [Feel the Bite: Robot-Assisted Inside-Mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control (HRI 2024)](https://dl.acm.org/doi/pdf/10.1145/3610977.3634975).
 - [ReliTalk: Relightable Talking Portrait Generation from a Single Video (IJCV 2024](https://arxiv.org/pdf/2309.02434.pdf).
 - [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf).
