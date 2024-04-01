@@ -32,6 +32,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 <summary>List of public repositories that use FLAME (alphabetical order).</summary>
 
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
+- [CVTHead](https://github.com/HowieMa/CVTHead): Controllable head avatar generation from a single image.
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
 - [diffusion-rig](https://github.com/adobe-research/diffusion-rig): Personalized model to edit facial expressions, head pose, and lighting in portrait images.
 - [EMOCA](https://github.com/radekd91/emoca): Reconstruction of emotional 3D faces from a single image.
@@ -98,8 +99,13 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
-- [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
+- [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
+- [Feel the Bite: Robot-Assisted Inside-Mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control (HRI 2024)](https://dl.acm.org/doi/pdf/10.1145/3610977.3634975).
+- [ReliTalk: Relightable Talking Portrait Generation from a Single Video (IJCV 2024](https://arxiv.org/pdf/2309.02434.pdf).
+- [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf).
 - [Towards Realistic Generative 3D Face Models (WACV 2024)](https://arxiv.org/pdf/2304.12483.pdf).
+- [LaughTalk: Expressive 3D Talking Head Generation with Laughter (WACV 2024)](https://arxiv.org/pdf/2311.00994.pdf).
+- [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
 
 #### 2023
 
@@ -108,7 +114,6 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/pdf/2312.02069.pdf).
 - [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing](https://arxiv.org/pdf/2312.03763.pdf).
 - [3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing](https://arxiv.org/pdf/2312.00870.pdf).
-- [LaughTalk: Expressive 3D Talking Head Generation with Laughter](https://arxiv.org/pdf/2311.00994.pdf).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models](https://arxiv.org/pdf/2307.04859.pdf).
 - [Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face](https://arxiv.org/pdf/2307.13639.pdf).
