@@ -59,6 +59,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.
 - [Semantify](https://github.com/Omergral/Semantify): Semantic control over 3DMM parameters. 
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
+- [SMIRK](https://github.com/georgeretsi/smirk): Reconstruction of emotional 3D faces from a single image.
 - [TRUST](https://github.com/HavenFeng/TRUST): Racially unbiased skin tone extimation from images.
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
 - [video-head-tracker](https://github.com/philgras/video-head-tracker): Track 3D heads in video sequences. 
@@ -99,9 +100,10 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
+- [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
 - [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
 - [Feel the Bite: Robot-Assisted Inside-Mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control (HRI 2024)](https://dl.acm.org/doi/pdf/10.1145/3610977.3634975).
-- [ReliTalk: Relightable Talking Portrait Generation from a Single Video (IJCV 2024](https://arxiv.org/pdf/2309.02434.pdf).
+- [ReliTalk: Relightable Talking Portrait Generation from a Single Video (IJCV 2024)](https://arxiv.org/pdf/2309.02434.pdf).
 - [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf).
 - [Towards Realistic Generative 3D Face Models (WACV 2024)](https://arxiv.org/pdf/2304.12483.pdf).
 - [LaughTalk: Expressive 3D Talking Head Generation with Laughter (WACV 2024)](https://arxiv.org/pdf/2311.00994.pdf).
