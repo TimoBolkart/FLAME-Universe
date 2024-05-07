@@ -43,6 +43,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer.
 - [GANHead](https://github.com/wsj-sjtu/GANHead) Animatable neural head avatar.
+- [GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars) Photorealistic head avatars with FLAME-rigged 3D Gaussians.
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [INSTA](https://github.com/Zielon/INSTA): Volumetric head avatars from videos in less than 10 minutes. 
 - [INSTA-pytorch](https://github.com/Zielon/INSTA-pytorch): Volumetric head avatars from videos in less than 10 minutes (PyTorch).
@@ -101,6 +102,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 #### 2024
 
 - [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
+- [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians (CVPR 2024)](https://arxiv.org/pdf/2312.02069.pdf).
 - [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
 - [Feel the Bite: Robot-Assisted Inside-Mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control (HRI 2024)](https://dl.acm.org/doi/pdf/10.1145/3610977.3634975).
 - [ReliTalk: Relightable Talking Portrait Generation from a Single Video (IJCV 2024)](https://arxiv.org/pdf/2309.02434.pdf).
@@ -113,7 +115,6 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 - [DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion](https://arxiv.org/pdf/2310.05934.pdf)
 - [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/pdf/2312.14140.pdf).
-- [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/pdf/2312.02069.pdf).
 - [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing](https://arxiv.org/pdf/2312.03763.pdf).
 - [3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing](https://arxiv.org/pdf/2312.00870.pdf).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://browse.arxiv.org/pdf/2310.00434.pdf).
