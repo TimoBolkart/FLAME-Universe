@@ -126,7 +126,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/pdf/2306.10799.pdf).
 - [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf).
 - [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf).
-- [Expressive Speech-driven Facial Animation with controllable emotions](https://arxiv.org/pdf/2301.02008.pdf).
+- [Expressive Speech-driven Facial Animation with controllable emotions (ICMEW 2023)](https://arxiv.org/pdf/2301.02008.pdf).
 - [A Perceptual Shape Loss for Monocular 3D Face Reconstruction (Pacific Graphics 2023)](https://studios.disneyresearch.com/app/uploads/2023/09/A-Perceptual-Shape-Loss-for-Monocular-3D-Face-Reconstruction-Paper.pdf).
 - [FLARE: Fast Learning of Animatable and Relightable Mesh Avatars (SIGGRAPH Asia 2023)](https://drive.google.com/file/d/1iiON_x9d2E4erP2n-2A4JQ-piHr5kdQ3/view?pli=1).
 - [Emotional Speech-Driven Animation with Content-Emotion Disentanglement (SIGGRAPH Asia 2023)](https://arxiv.org/pdf/2306.08990.pdf).
