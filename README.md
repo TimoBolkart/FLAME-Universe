@@ -34,6 +34,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [BFM_to_FLAME](https://github.com/TimoBolkart/BFM_to_FLAME): Conversion from Basel Face Model (BFM) to FLAME.
 - [CVTHead](https://github.com/HowieMa/CVTHead): Controllable head avatar generation from a single image.
 - [DECA](https://github.com/YadiraF/DECA):  Reconstruction of 3D faces with animatable facial expression detail from a single image.
+- [DiffPoseTalk](https://github.com/DiffPoseTalk/DiffPoseTalk): Speech-driven stylistic 3D facial animation.
 - [diffusion-rig](https://github.com/adobe-research/diffusion-rig): Personalized model to edit facial expressions, head pose, and lighting in portrait images.
 - [EMOCA](https://github.com/radekd91/emoca): Reconstruction of emotional 3D faces from a single image.
 - [EMOTE](https://github.com/radekd91/inferno/tree/release/EMOTE/inferno_apps/TalkingHead): Emotional speech-driven 3D face animation.
@@ -102,10 +103,13 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
+- [Gaussian Eigen Models for Human Heads](https://arxiv.org/pdf/2407.04545).
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
 - [GGHead: Fast and Generalizable 3D Gaussian Heads](https://arxiv.org/pdf/2406.09377).
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
-- [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (ECCV)](https://arxiv.org/pdf/2404.19026).
+- [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing (ECCV 2024)](https://arxiv.org/pdf/2312.03763.pdf).
+- [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (ECCV 2024)](https://arxiv.org/pdf/2404.19026).
+- [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians (CVPR 2024)](https://arxiv.org/pdf/2312.02069.pdf).
 - [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
@@ -114,18 +118,15 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf).
 - [Towards Realistic Generative 3D Face Models (WACV 2024)](https://arxiv.org/pdf/2304.12483.pdf).
 - [LaughTalk: Expressive 3D Talking Head Generation with Laughter (WACV 2024)](https://arxiv.org/pdf/2311.00994.pdf).
+- [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering (ICCS 2024)](https://arxiv.org/pdf/2303.06226.pdf).
 
 #### 2023
 
-- [Can Language Models Learn to Listen?](https://arxiv.org/pdf/2308.10897.pdf).
 - [DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion](https://arxiv.org/pdf/2310.05934.pdf)
 - [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/pdf/2312.14140.pdf).
-- [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing](https://arxiv.org/pdf/2312.03763.pdf).
 - [3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing](https://arxiv.org/pdf/2312.00870.pdf).
-- [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models](https://arxiv.org/pdf/2307.04859.pdf).
 - [Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face](https://arxiv.org/pdf/2307.13639.pdf).
-- [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering](https://arxiv.org/pdf/2303.06226.pdf).
 - [Text2Face: A Multi-Modal 3D Face Model](https://arxiv.org/pdf/2303.02688.pdf).
 - [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces (ACM-MM 2023)](https://arxiv.org/pdf/2306.10799.pdf).
 - [Expressive Speech-driven Facial Animation with controllable emotions (ICMEW 2023)](https://arxiv.org/pdf/2301.02008.pdf).
@@ -133,6 +134,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [FLARE: Fast Learning of Animatable and Relightable Mesh Avatars (SIGGRAPH Asia 2023)](https://drive.google.com/file/d/1iiON_x9d2E4erP2n-2A4JQ-piHr5kdQ3/view?pli=1).
 - [Emotional Speech-Driven Animation with Content-Emotion Disentanglement (SIGGRAPH Asia 2023)](https://arxiv.org/pdf/2306.08990.pdf).
 - [Decaf: Monocular Deformation Capture for Face and Hand Interactions (SIGGRAPH Asia 2023)](https://vcai.mpi-inf.mpg.de/projects/Decaf/static/paper.pdf).
+- [Can Language Models Learn to Listen? (ICCV 2023)](https://arxiv.org/pdf/2308.10897.pdf).
 - [Accurate 3D Face Reconstruction with Facial Component Tokens (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.pdf)
 - [Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper.pdf).
 - [Semantify: Simplifying the Control of 3D Morphable Models using CLIP (ICCV 2023)](https://arxiv.org/pdf/2308.07415.pdf).
