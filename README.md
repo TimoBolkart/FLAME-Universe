@@ -48,7 +48,8 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [INSTA](https://github.com/Zielon/INSTA): Volumetric head avatars from videos in less than 10 minutes. 
 - [INSTA-pytorch](https://github.com/Zielon/INSTA-pytorch): Volumetric head avatars from videos in less than 10 minutes (PyTorch).
 - [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations. 
-- [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image. 
+- [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image.
+- [MeGA](https://github.com/conallwang/MeGA): Reconstruction of an editable hybrid mesh-Gaussian head avatar.
 - [metrical-tracker](https://github.com/Zielon/metrical-tracker): Metrical face tracker for monocular videos.
 - [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos.
 - [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.  
@@ -104,6 +105,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
 - [GGHead: Fast and Generalizable 3D Gaussian Heads](https://arxiv.org/pdf/2406.09377).
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
+- [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (ECCV)](https://arxiv.org/pdf/2404.19026).
 - [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians (CVPR 2024)](https://arxiv.org/pdf/2312.02069.pdf).
 - [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
