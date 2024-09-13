@@ -103,6 +103,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
+- [ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE](https://arxiv.org/pdf/2409.07966).
 - [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/pdf/2408.06010).
 - [Gaussian Eigen Models for Human Heads](https://arxiv.org/pdf/2407.04545).
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
