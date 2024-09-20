@@ -52,6 +52,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image.
 - [MeGA](https://github.com/conallwang/MeGA): Reconstruction of an editable hybrid mesh-Gaussian head avatar.
 - [metrical-tracker](https://github.com/Zielon/metrical-tracker): Metrical face tracker for monocular videos.
+- [MultiTalk](https://github.com/postech-ami/MultiTalk): Speech-driven facial animation of meshes in FLAME mesh topology.
 - [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos.
 - [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.  
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences.
@@ -109,6 +110,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
 - [GGHead: Fast and Generalizable 3D Gaussian Heads](https://arxiv.org/pdf/2406.09377).
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
+- [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset (INTERSPEECH 2024)](https://arxiv.org/pdf/2406.14272).
 - [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing (ECCV 2024)](https://arxiv.org/pdf/2312.03763.pdf).
 - [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (ECCV 2024)](https://arxiv.org/pdf/2404.19026).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
