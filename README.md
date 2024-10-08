@@ -54,7 +54,8 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [metrical-tracker](https://github.com/Zielon/metrical-tracker): Metrical face tracker for monocular videos.
 - [MultiTalk](https://github.com/postech-ami/MultiTalk): Speech-driven facial animation of meshes in FLAME mesh topology.
 - [NED](https://github.com/foivospar/NED): Facial expression of emotion manipulation in videos.
-- [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.  
+- [Next3D](https://github.com/MrTornado24/Next3D): 3D generative model with FLAME parameter control.
+- [NeuralHaircut](https://github.com/SamsungLabs/NeuralHaircut): Creation of strand-based hairstyle from single-view or multi-view videos. 
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences.
 - [NeRSemble](https://github.com/tobias-kirschstein/nersemble): Building a neural head avatar from multi-view video data.
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering.- 
@@ -112,8 +113,14 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
 - [SPARK: Self-supervised Personalized Real-time Monocular Face Capture (SIGGRAPH Asia 2024)](https://arxiv.org/pdf/2409.07984).
 - [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset (INTERSPEECH 2024)](https://arxiv.org/pdf/2406.14272).
+- [Stable Video Portraits (ECCV 2024)](https://arxiv.org/pdf/2409.18083).
+- [GRAPE: Generalizable and Robust Multi-view Facial Capture (ECCV 2024](https://arxiv.org/pdf/2407.10193).
+- [Human Hair Reconstruction with Strand-Aligned 3D Gaussians (ECCV 2024)](https://arxiv.org/pdf/2409.14778).
+- [PAV: Personalized Head Avatar from Unstructured Video Collection (ECCV 2024)](https://arxiv.org/pdf/2407.21047).
 - [GAUSSIAN3DIFF: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing (ECCV 2024)](https://arxiv.org/pdf/2312.03763.pdf).
 - [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (ECCV 2024)](https://arxiv.org/pdf/2404.19026).
+- [HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2312.02902).
+- [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2402.06149).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians (CVPR 2024)](https://arxiv.org/pdf/2312.02069.pdf).
@@ -139,6 +146,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [FLARE: Fast Learning of Animatable and Relightable Mesh Avatars (SIGGRAPH Asia 2023)](https://drive.google.com/file/d/1iiON_x9d2E4erP2n-2A4JQ-piHr5kdQ3/view?pli=1).
 - [Emotional Speech-Driven Animation with Content-Emotion Disentanglement (SIGGRAPH Asia 2023)](https://arxiv.org/pdf/2306.08990.pdf).
 - [Decaf: Monocular Deformation Capture for Face and Hand Interactions (SIGGRAPH Asia 2023)](https://vcai.mpi-inf.mpg.de/projects/Decaf/static/paper.pdf).
+- [Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction (ICCV 2023)](https://arxiv.org/pdf/2306.05872).
 - [Can Language Models Learn to Listen? (ICCV 2023)](https://arxiv.org/pdf/2308.10897.pdf).
 - [Accurate 3D Face Reconstruction with Facial Component Tokens (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.pdf)
 - [Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper.pdf).
