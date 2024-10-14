@@ -111,6 +111,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
 - [GGHead: Fast and Generalizable 3D Gaussian Heads](https://arxiv.org/pdf/2406.09377).
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
+- [Generalizable and Animatable Gaussian Head Avatar (NeurIPS 2024)](https://arxiv.org/pdf/2410.07971).
 - [SPARK: Self-supervised Personalized Real-time Monocular Face Capture (SIGGRAPH Asia 2024)](https://arxiv.org/pdf/2409.07984).
 - [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset (INTERSPEECH 2024)](https://arxiv.org/pdf/2406.14272).
 - [Stable Video Portraits (ECCV 2024)](https://arxiv.org/pdf/2409.18083).
