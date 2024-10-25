@@ -64,6 +64,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.
 - [Semantify](https://github.com/Omergral/Semantify): Semantic control over 3DMM parameters. 
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
+- [SplattingAvatar](https://github.com/initialneil/SplattingAvatar): Real-time human avatars with mesh-embedded Gaussian splatting.
 - [SMIRK](https://github.com/georgeretsi/smirk): Reconstruction of emotional 3D faces from a single image.
 - [TRUST](https://github.com/HavenFeng/TRUST): Racially unbiased skin tone extimation from images.
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
@@ -123,6 +124,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2312.02902).
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2402.06149).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
+- [SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting (CVPR 2024)](https://arxiv.org/pdf/2403.05087).
 - [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians (CVPR 2024)](https://arxiv.org/pdf/2312.02069.pdf).
 - [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
