@@ -48,7 +48,8 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [INSTA](https://github.com/Zielon/INSTA): Volumetric head avatars from videos in less than 10 minutes. 
 - [INSTA-pytorch](https://github.com/Zielon/INSTA-pytorch): Volumetric head avatars from videos in less than 10 minutes (PyTorch).
-- [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations. 
+- [learning2listen](https://github.com/evonneng/learning2listen): Modeling interactional communication in dyadic conversations.
+- [LightAvatar-TensorFlow](https://github.com/MingSun-Tse/LightAvatar-TensorFlow): Use of neural light field (NeLF) to build photorealistic 3D head avatars.
 - [MICA](https://github.com/Zielon/MICA): Reconstruction of metrically accurated 3D faces from a single image.
 - [MeGA](https://github.com/conallwang/MeGA): Reconstruction of an editable hybrid mesh-Gaussian head avatar.
 - [metrical-tracker](https://github.com/Zielon/metrical-tracker): Metrical face tracker for monocular videos.
@@ -106,6 +107,9 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 
 #### 2024
 
+
+- [GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations](https://arxiv.org/pdf/2409.11951).
+- [VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/pdf/2409.09740).
 - [ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE](https://arxiv.org/pdf/2409.07966).
 - [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/pdf/2408.06010).
 - [Gaussian Eigen Models for Human Heads](https://arxiv.org/pdf/2407.04545).
@@ -115,6 +119,7 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [Generalizable and Animatable Gaussian Head Avatar (NeurIPS 2024)](https://arxiv.org/pdf/2410.07971).
 - [SPARK: Self-supervised Personalized Real-time Monocular Face Capture (SIGGRAPH Asia 2024)](https://arxiv.org/pdf/2409.07984).
 - [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset (INTERSPEECH 2024)](https://arxiv.org/pdf/2406.14272).
+- [LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field (ECCV-W 2024)](https://arxiv.org/pdf/2409.18057).
 - [Stable Video Portraits (ECCV 2024)](https://arxiv.org/pdf/2409.18083).
 - [GRAPE: Generalizable and Robust Multi-view Facial Capture (ECCV 2024](https://arxiv.org/pdf/2407.10193).
 - [Human Hair Reconstruction with Strand-Aligned 3D Gaussians (ECCV 2024)](https://arxiv.org/pdf/2409.14778).
@@ -124,13 +129,18 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2312.02902).
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2402.06149).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
+- [UltrAvatar: A Realistic Animatable 3D Avatar Diffusion Model with Authenticity Guided Textures (CVPR 2024)](https://arxiv.org/pdf/2401.11078).
+- [FlashAvatar: High-fidelity Head Avatar with Efficient Gaussian Embedding (CVPR 2024)](https://arxiv.org/pdf/2312.02214).
+- [Portrait4D: Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data (CVPR 2024)](https://arxiv.org/pdf/2311.18729).
 - [SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting (CVPR 2024)](https://arxiv.org/pdf/2403.05087).
 - [3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)](https://arxiv.org/pdf/2404.04104.pdf).
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians (CVPR 2024)](https://arxiv.org/pdf/2312.02069.pdf).
 - [FaceComposer: A Unified Model for Versatile Facial Content Creation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b4caf39e645680f826ae0a9e7ae9402-Paper-Conference.pdf).
 - [Feel the Bite: Robot-Assisted Inside-Mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control (HRI 2024)](https://dl.acm.org/doi/pdf/10.1145/3610977.3634975).
 - [ReliTalk: Relightable Talking Portrait Generation from a Single Video (IJCV 2024)](https://arxiv.org/pdf/2309.02434.pdf).
+- [Audio-Driven Speech Animation with Text-Guided Expression (EG 2024)](https://diglib.eg.org/server/api/core/bitstreams/4fbd525f-ea74-4a0b-9e21-d8c2003fde2a/content).
 - [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf).
+- [AU-Aware Dynamic 3D Face Reconstruction from Videos with Transformer (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Kuang_AU-Aware_Dynamic_3D_Face_Reconstruction_From_Videos_With_Transformer_WACV_2024_paper.pdf).
 - [Towards Realistic Generative 3D Face Models (WACV 2024)](https://arxiv.org/pdf/2304.12483.pdf).
 - [LaughTalk: Expressive 3D Talking Head Generation with Laughter (WACV 2024)](https://arxiv.org/pdf/2311.00994.pdf).
 - [NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering (ICCS 2024)](https://arxiv.org/pdf/2303.06226.pdf).
