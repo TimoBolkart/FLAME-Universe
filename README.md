@@ -41,7 +41,8 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 - [expgan](https://github.com/kakaobrain/expgan): Face image generation with expression control.
 - [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
-- [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans. 
+- [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans.
+- [flame-head-tracker](https://github.com/PeizhiYan/flame-head-tracker): FLAMe-based monocular video tracking.
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer.
 - [GANHead](https://github.com/wsj-sjtu/GANHead) Animatable neural head avatar.
 - [GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars) Photorealistic head avatars with FLAME-rigged 3D Gaussians.
@@ -105,8 +106,11 @@ FLAME is publicly available under [Creative Commons Attribution license](https:/
 <details open>
 <summary>List of FLAME-based scientific publications.</summary>
 
-#### 2024
+#### 2025
 
+- [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
+
+#### 2024
 
 - [GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations](https://arxiv.org/pdf/2409.11951).
 - [VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/pdf/2409.09740).
