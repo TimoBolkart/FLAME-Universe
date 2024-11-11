@@ -47,8 +47,9 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans.
 - [flame-head-tracker](https://github.com/PeizhiYan/flame-head-tracker): FLAMe-based monocular video tracking.
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer.
-- [GANHead](https://github.com/wsj-sjtu/GANHead) Animatable neural head avatar.
-- [GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars) Photorealistic head avatars with FLAME-rigged 3D Gaussians.
+- [GANHead](https://github.com/wsj-sjtu/GANHead): Animatable neural head avatar.
+- [GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars): Photorealistic head avatars with FLAME-rigged 3D Gaussians.
+- [GPAvatar](https://github.com/xg-chu/GPAvatar): Prediction of controllable 3D head avatars from one or several images.
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
 - [INSTA](https://github.com/Zielon/INSTA): Volumetric head avatars from videos in less than 10 minutes. 
 - [INSTA-pytorch](https://github.com/Zielon/INSTA-pytorch): Volumetric head avatars from videos in less than 10 minutes (PyTorch).
@@ -126,6 +127,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [Generalizable and Animatable Gaussian Head Avatar (NeurIPS 2024)](https://arxiv.org/pdf/2410.07971).
 - [SPARK: Self-supervised Personalized Real-time Monocular Face Capture (SIGGRAPH Asia 2024)](https://arxiv.org/pdf/2409.07984).
 - [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset (INTERSPEECH 2024)](https://arxiv.org/pdf/2406.14272).
+- [GPAvatar: Generalizable and Precise Head Avatars from Image(S) (ICLR 2024)](https://arxiv.org/pdf/2401.10215).
 - [LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field (ECCV-W 2024)](https://arxiv.org/pdf/2409.18057).
 - [Stable Video Portraits (ECCV 2024)](https://arxiv.org/pdf/2409.18083).
 - [GRAPE: Generalizable and Robust Multi-view Facial Capture (ECCV 2024](https://arxiv.org/pdf/2407.10193).
