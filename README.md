@@ -135,6 +135,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (ECCV 2024)](https://arxiv.org/pdf/2404.19026).
 - [HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2312.02902).
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2402.06149).
+- [MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar (SIGGRAPH 2024)](https://arxiv.org/pdf/2312.04558).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
 - [UltrAvatar: A Realistic Animatable 3D Avatar Diffusion Model with Authenticity Guided Textures (CVPR 2024)](https://arxiv.org/pdf/2401.11078).
 - [FlashAvatar: High-fidelity Head Avatar with Efficient Gaussian Embedding (CVPR 2024)](https://arxiv.org/pdf/2312.02214).
