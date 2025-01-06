@@ -76,6 +76,8 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
 - [video-head-tracker](https://github.com/philgras/video-head-tracker): Track 3D heads in video sequences. 
 - [VOCA](https://github.com/TimoBolkart/voca): Speech-driven facial animation of meshes in FLAME mesh topology.
+-
+[VHAP](https://github.com/ShenhanQian/VHAP): 3D face tracker for single-view and multi-view videos.
 
 </details>
 
