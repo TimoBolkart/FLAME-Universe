@@ -147,6 +147,7 @@ from Monocular Video](https://arxiv.org/pdf/2411.15604).
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting (ECCV 2024)](https://arxiv.org/pdf/2402.06149).
 - [MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar (SIGGRAPH 2024)](https://arxiv.org/pdf/2312.04558).
 - [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models (SIGGRAPH 2024)](https://browse.arxiv.org/pdf/2310.00434.pdf).
+- [EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling (CVPR 2024)](https://arxiv.org/pdf/2401.00374).
 - [UltrAvatar: A Realistic Animatable 3D Avatar Diffusion Model with Authenticity Guided Textures (CVPR 2024)](https://arxiv.org/pdf/2401.11078).
 - [FlashAvatar: High-fidelity Head Avatar with Efficient Gaussian Embedding (CVPR 2024)](https://arxiv.org/pdf/2312.02214).
 - [Portrait4D: Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data (CVPR 2024)](https://arxiv.org/pdf/2311.18729).
