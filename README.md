@@ -98,6 +98,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [LYHM](https://www-users.cs.york.ac.uk/~nep/research/Headspace/): 1216 subjects, one neutral expression mesh each.
 - [MEAD reconstructions](https://github.com/radekd91/inferno/tree/release/EMOTE/inferno_apps/TalkingHead): 3D face reconstructions for MEAD (emotional talking-face dataset).
 - [NeRSemble dataset](https://github.com/tobias-kirschstein/nersemble): 10 sequences of multi-view images and 3D faces in FLAME mesh topology.
+- [SingingHead](https://github.com/wsj-sjtu/SingingHead):  27 hours of synchronized singing video, audio, 3D facial motion, and background music from 76 subjects.
 - [Stirling](https://github.com/Zielon/MICA/tree/master/datasets): 133 subjects, one neutral expression mesh each. 
 - [VOCASET](https://github.com/TimoBolkart/voca): 12 subjects, 40 speech sequences each with synchronized audio.
 
