@@ -117,6 +117,8 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2024
 
+- [FATE: Full-head Gaussian Avatar with Textural Editing
+from Monocular Video](https://arxiv.org/pdf/2411.15604).
 - [GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion](https://arxiv.org/pdf/2412.10209).
 - [SurFhead: Affine Rig Blending for Geometrically Accurate 2D Gaussian Surfel Head Avatars](https://arxiv.org/pdf/2410.11682).
 - [MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting](https://arxiv.org/pdf/2412.04955).
