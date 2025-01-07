@@ -90,7 +90,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [BP4D+](https://github.com/Zielon/MICA/tree/master/datasets): 127 subjects, one neutral expression mesh each. 
 - [CoMA dataset](https://coma.is.tue.mpg.de/download.php): 12 subjects, 12 extreme dynamic expressions each.
 - [D3DFACS](https://flame.is.tue.mpg.de/download.php): 10 subjects, 519 dynamic expressions in total.
-- [Decaf dataset](https://github.com/soshishimada/DecafDatasetScript): Deformation capture for fance and hand interactions.
+- [Decaf dataset](https://github.com/soshishimada/DecafDatasetScript): Deformation capture for face and hand interactions.
 - [FaceWarehouse](http://kunzhou.net/zjugaps/facewarehouse/): 150 subjects, one neutral expression mesh each. 
 - [FaMoS](https://tempeh.is.tue.mpg.de/): 95 subjects, 28 dynamic expressions and head poses each, about 600K frames in total.
 - [Florence 2D/3D](https://github.com/Zielon/MICA/tree/master/datasets): 53 subjects, one neutral expression mesh each. 
