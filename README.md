@@ -114,6 +114,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation](https://arxiv.org/pdf/2501.09921).
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
 
 #### 2024
