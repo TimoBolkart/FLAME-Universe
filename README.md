@@ -48,6 +48,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [flame-head-tracker](https://github.com/PeizhiYan/flame-head-tracker): FLAMe-based monocular video tracking.
 - [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch): FLAME PyTorch layer.
 - [GANHead](https://github.com/wsj-sjtu/GANHead): Animatable neural head avatar.
+- [GAGAvatar](https://github.com/xg-chu/GAGAvatar): Recontruction of controllable 3D head avatars from a single image.
 - [GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars): Photorealistic head avatars with FLAME-rigged 3D Gaussians.
 - [GPAvatar](https://github.com/xg-chu/GPAvatar): Prediction of controllable 3D head avatars from one or several images.
 - [GIF](https://github.com/ParthaEth/GIF): Generating face images with FLAME parameter control. 
