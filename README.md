@@ -69,7 +69,8 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
 - [ROME](https://github.com/SamsungLabs/rome): Creation of personalized avatar from a single image.
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.
-- [Semantify](https://github.com/Omergral/Semantify): Semantic control over 3DMM parameters. 
+- [Semantify](https://github.com/Omergral/Semantify): Semantic control over 3DMM parameters.
+- [SPARK](https://github.com/KelianB/SPARK): Personalized Real-time Monocular Face Capture
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
 - [SplattingAvatar](https://github.com/initialneil/SplattingAvatar): Real-time human avatars with mesh-embedded Gaussian splatting.
 - [SMIRK](https://github.com/georgeretsi/smirk): Reconstruction of emotional 3D faces from a single image.
