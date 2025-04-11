@@ -122,12 +122,12 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [TEASER: Token Enhanced Spatial Modeling For Expressions Reconstruction](https://arxiv.org/pdf/2502.10982).
 - [PrismAvatar: Real-time animated 3D neural head avatars on edge devices](https://arxiv.org/pdf/2502.07030).
 - [TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation](https://arxiv.org/pdf/2501.09921).
+- [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models (CVPR 2025)](https://arxiv.org/pdf/2412.12093).
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
 
 #### 2024
 
-- [FATE: Full-head Gaussian Avatar with Textural Editing
-from Monocular Video](https://arxiv.org/pdf/2411.15604).
+- [FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video](https://arxiv.org/pdf/2411.15604).
 - [GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion](https://arxiv.org/pdf/2412.10209).
 - [SurFhead: Affine Rig Blending for Geometrically Accurate 2D Gaussian Surfel Head Avatars](https://arxiv.org/pdf/2410.11682).
 - [MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting](https://arxiv.org/pdf/2412.04955).
