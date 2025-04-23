@@ -118,6 +118,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/pdf/2504.14373).
 - [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/pdf/2502.20323)
 - [TEASER: Token Enhanced Spatial Modeling For Expressions Reconstruction](https://arxiv.org/pdf/2502.10982).
 - [PrismAvatar: Real-time animated 3D neural head avatars on edge devices](https://arxiv.org/pdf/2502.07030).
