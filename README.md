@@ -43,6 +43,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [EMOTE](https://github.com/radekd91/inferno/tree/release/EMOTE/inferno_apps/TalkingHead): Emotional speech-driven 3D face animation.
 - [expgan](https://github.com/kakaobrain/expgan): Face image generation with expression control.
 - [FaceFormer](https://github.com/EvelynFan/FaceFormer): Speech-driven facial animation of meshes in FLAME mesh topology.
+- [FateAvatar](https://github.com/zjwfufu/FateAvatar): Full-head Gaussian Avatar with Textural Editing from Monocular Video.
 - [FLAME-Blender-Add-on](https://github.com/TimoBolkart/FLAME-Blender-Add-on): FLAME Blender Add-on.
 - [flame-fitting](https://github.com/Rubikplayer/flame-fitting): Fitting of FLAME to scans.
 - [flame-head-tracker](https://github.com/PeizhiYan/flame-head-tracker): FLAMe-based monocular video tracking.
@@ -123,7 +124,11 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [TEASER: Token Enhanced Spatial Modeling For Expressions Reconstruction](https://arxiv.org/pdf/2502.10982).
 - [PrismAvatar: Real-time animated 3D neural head avatars on edge devices](https://arxiv.org/pdf/2502.07030).
 - [TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation](https://arxiv.org/pdf/2501.09921).
+- [FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video (CVPR 2025)](https://arxiv.org/pdf/2411.15604).
+- [Gaussian Eigen Models for Human Heads (CVPR 2025)](https://arxiv.org/pdf/2407.04545).
+- [Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis (CVPR 2025)](https://arxiv.org/pdf/2503.09556).
 - [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models (CVPR 2025)](https://arxiv.org/pdf/2412.12093).
+- [OFER: Occluded Face Expression Reconstruction (CVPR 2025)](https://arxiv.org/pdf/2410.21629).
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
 
 #### 2024
@@ -135,12 +140,11 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [GaussianSpeech: Audio-Driven Gaussian Avatars](https://arxiv.org/pdf/2411.18675).
 - [GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations](https://arxiv.org/pdf/2409.11951).
 - [VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/pdf/2409.09740).
-- [ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE](https://arxiv.org/pdf/2409.07966).
 - [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/pdf/2408.06010).
-- [Gaussian Eigen Models for Human Heads](https://arxiv.org/pdf/2407.04545).
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
-- [GGHead: Fast and Generalizable 3D Gaussian Heads](https://arxiv.org/pdf/2406.09377).
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
+- [ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE (SIGGRAPH MIG 2024)](https://arxiv.org/pdf/2409.07966).
+- [GGHead: Fast and Generalizable 3D Gaussian Heads (SIGGRAPH Asia 2024)](https://arxiv.org/pdf/2406.09377).- 
 - [Generalizable and Animatable Gaussian Head Avatar (NeurIPS 2024)](https://arxiv.org/pdf/2410.07971).
 - [SPARK: Self-supervised Personalized Real-time Monocular Face Capture (SIGGRAPH Asia 2024)](https://arxiv.org/pdf/2409.07984).
 - [MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset (INTERSPEECH 2024)](https://arxiv.org/pdf/2406.14272).
