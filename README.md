@@ -67,6 +67,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [neural-head-avatars](https://github.com/philgras/neural-head-avatars): Building a neural head avatar from video sequences.
 - [NeRSemble](https://github.com/tobias-kirschstein/nersemble): Building a neural head avatar from multi-view video data.
 - [photometric_optimization](https://github.com/HavenFeng/photometric_optimization): Fitting of FLAME to images using differentiable rendering.- 
+- [RGBAvatar](https://github.com/gapszju/RGBAvatar): Reduced Gaussian Blendshapes for Online Modeling of Head Avatars.
 - [RingNet](https://github.com/soubhiksanyal/RingNet): Reconstruction of 3D faces from a single image. 
 - [ROME](https://github.com/SamsungLabs/rome): Creation of personalized avatar from a single image.
 - [SAFA](https://github.com/Qiulin-W/SAFA): Animation of face images.
@@ -119,22 +120,35 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [OT-Talk: Animating 3D Talking Head with Optimal Transportation](https://arxiv.org/pdf/2505.01932).
 - [SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/pdf/2504.14373).
 - [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/pdf/2502.20323)
 - [TEASER: Token Enhanced Spatial Modeling For Expressions Reconstruction](https://arxiv.org/pdf/2502.10982).
 - [PrismAvatar: Real-time animated 3D neural head avatars on edge devices](https://arxiv.org/pdf/2502.07030).
 - [TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation](https://arxiv.org/pdf/2501.09921).
+- [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (CVPR 2025)](https://arxiv.org/pdf/2404.19026).
+- [Data Synthesis with Diverse Styles for Face Recognition via 3DMM-Guided Diffusion (CVPR 2025)](https://arxiv.org/pdf/2504.00430).
+- [3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations (CVPR 2025)](https://arxiv.org/pdf/2504.14967).
+- [Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics (CVPR 2025)](https://arxiv.org/pdf/2503.20308).
+- [DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations (CVPR 2025)](https://arxiv.org/pdf/2505.18096).
+- [Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance (CVPR 2025)](https://arxiv.org/pdf/2501.05379).
+- [RGBAvatar: Reduced Gaussian Blendshapes for Online Modeling of Head Avatars (CVPR 2025)](https://arxiv.org/pdf/2503.12886).
+- [Coherent 3D Portrait Video Reconstruction via Triplane Fusion (CVPR 2025)](https://arxiv.org/pdf/2412.08684).
+- [ControlFace: Harnessing Facial Parametric Control for Face Rigging (CVPR 2025)](https://arxiv.org/pdf/2412.01160).
+- [GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion (CVPR 2025)](https://arxiv.org/pdf/2412.10209).
+- [GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_GPAvatar_High-fidelity_Head_Avatars_by_Learning_Efficient_Gaussian_Projections_CVPR_2025_paper.pdf).
 - [FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video (CVPR 2025)](https://arxiv.org/pdf/2411.15604).
 - [Gaussian Eigen Models for Human Heads (CVPR 2025)](https://arxiv.org/pdf/2407.04545).
 - [Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis (CVPR 2025)](https://arxiv.org/pdf/2503.09556).
 - [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models (CVPR 2025)](https://arxiv.org/pdf/2412.12093).
 - [OFER: Occluded Face Expression Reconstruction (CVPR 2025)](https://arxiv.org/pdf/2410.21629).
+
+
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
 
 #### 2024
 
 - [FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video](https://arxiv.org/pdf/2411.15604).
-- [GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion](https://arxiv.org/pdf/2412.10209).
 - [SurFhead: Affine Rig Blending for Geometrically Accurate 2D Gaussian Surfel Head Avatars](https://arxiv.org/pdf/2410.11682).
 - [MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting](https://arxiv.org/pdf/2412.04955).
 - [GaussianSpeech: Audio-Driven Gaussian Avatars](https://arxiv.org/pdf/2411.18675).
