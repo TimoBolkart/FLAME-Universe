@@ -142,8 +142,6 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis (CVPR 2025)](https://arxiv.org/pdf/2503.09556).
 - [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models (CVPR 2025)](https://arxiv.org/pdf/2412.12093).
 - [OFER: Occluded Face Expression Reconstruction (CVPR 2025)](https://arxiv.org/pdf/2410.21629).
-
-
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
 
 #### 2024
