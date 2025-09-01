@@ -120,6 +120,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [FastAvatar: Towards Unified Fast High-Fidelity 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers](https://arxiv.org/pdf/2508.19754).
 - [OT-Talk: Animating 3D Talking Head with Optimal Transportation](https://arxiv.org/pdf/2505.01932).
 - [SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/pdf/2504.14373).
 - [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/pdf/2502.20323)
