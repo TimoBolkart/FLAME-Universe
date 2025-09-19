@@ -22,7 +22,6 @@ We aim at keeping the list up to date. You are invited to add missing FLAME-base
 FLAME is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. 
 FLAME combines a linear identity shape space (trained from head scans of 3800 subjects) with an articulated neck, jaw, and eyeballs, pose-dependent corrective blendshapes, and additional global expression blendshapes. 
 For details please see the [scientific publication](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/400/paper.pdf).
-FLAME is publicly available under [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
 
 To download the FLAME model, sign up under [MPI-IS/FLAME](https://flame.is.tue.mpg.de/download.php) and agree to the [model license](https://flame.is.tue.mpg.de/modellicense.html). Then you can download FLAME and other FLAME-related resources such as landmark embeddings, segmentation masks, quad template mesh, etc., from [MPI-IS/FLAME/download](https://flame.is.tue.mpg.de/download.php). 
 You can also download the model with a bash script such as [fetch_FLAME](https://github.com/Rubikplayer/flame-fitting/blob/master/fetch_FLAME.sh).
