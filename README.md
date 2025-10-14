@@ -119,6 +119,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars](https://arxiv.org/pdf/2510.05488).
 - [GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals](https://arxiv.org/pdf/2509.02141).
 - [FastAvatar: Towards Unified Fast High-Fidelity 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers](https://arxiv.org/pdf/2508.19754).
 - [OT-Talk: Animating 3D Talking Head with Optimal Transportation](https://arxiv.org/pdf/2505.01932).
