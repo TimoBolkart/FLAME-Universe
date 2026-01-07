@@ -145,6 +145,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models (CVPR 2025)](https://arxiv.org/pdf/2412.12093).
 - [OFER: Occluded Face Expression Reconstruction (CVPR 2025)](https://arxiv.org/pdf/2410.21629).
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
+- [EmoVOCA: Speech-Driven Emotional 3D Talking Heads (WACV 2025)](https://arxiv.org/pdf/2403.12886).
 - [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation (AAAI 2025)](https://arxiv.org/pdf/2408.06010).
 
 #### 2024
