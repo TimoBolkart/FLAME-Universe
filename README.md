@@ -145,6 +145,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models (CVPR 2025)](https://arxiv.org/pdf/2412.12093).
 - [OFER: Occluded Face Expression Reconstruction (CVPR 2025)](https://arxiv.org/pdf/2410.21629).
 - [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities (WACV 2025)](https://arxiv.org/pdf/2409.16147).
+- [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation (AAAI 2025)](https://arxiv.org/pdf/2408.06010).
 
 #### 2024
 
@@ -155,7 +156,6 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [GaussianSpeech: Audio-Driven Gaussian Avatars](https://arxiv.org/pdf/2411.18675).
 - [GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations](https://arxiv.org/pdf/2409.11951).
 - [VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/pdf/2409.09740).
-- [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/pdf/2408.06010).
 - [FAGhead: Fully Animate Gaussian Head from Monocular Videos](https://arxiv.org/pdf/2406.19070).
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/pdf/2402.03723.pdf).
 - [ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE (SIGGRAPH MIG 2024)](https://arxiv.org/pdf/2409.07966).
