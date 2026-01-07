@@ -74,6 +74,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [SPARK](https://github.com/KelianB/SPARK): Personalized Real-time Monocular Face Capture
 - [SPECTRE](https://github.com/filby89/spectre): Speech-aware 3D face reconstruction from images.
 - [SplattingAvatar](https://github.com/initialneil/SplattingAvatar): Real-time human avatars with mesh-embedded Gaussian splatting.
+- [TalkingStyle](https://github.com/wangxuanx/TalkingStyle): Personalized spech-driven 3D facial animation of meshes in FLAME mesh topology. 
 - [SMIRK](https://github.com/georgeretsi/smirk): Reconstruction of emotional 3D faces from a single image.
 - [TRUST](https://github.com/HavenFeng/TRUST): Racially unbiased skin tone extimation from images.
 - [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME): Fit FLAME to 2D/3D landmarks, FLAME meshes, or sample textured meshes. 
