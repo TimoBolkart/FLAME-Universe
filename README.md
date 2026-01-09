@@ -129,6 +129,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [TEASER: Token Enhanced Spatial Modeling For Expressions Reconstruction](https://arxiv.org/abs/2502.10982).
 - [PrismAvatar: Real-time animated 3D neural head avatars on edge devices](https://arxiv.org/abs/2502.07030).
 - [TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation](https://arxiv.org/abs/2501.09921).
+- [EcoFace: Audio-Visual Emotional Co-Disentanglement Speech-Driven 3D Talking Face Generation (ICLR 2025)](https://openreview.net/forum?id=iDcWYtYUwX).
 - [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing (CVPR 2025)](https://arxiv.org/abs/2404.19026).
 - [Data Synthesis with Diverse Styles for Face Recognition via 3DMM-Guided Diffusion (CVPR 2025)](https://arxiv.org/abs/2504.00430).
 - [3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations (CVPR 2025)](https://arxiv.org/abs/2504.14967).
