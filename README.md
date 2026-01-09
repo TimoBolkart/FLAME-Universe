@@ -120,6 +120,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [FIELDS: Face reconstruction with accurate Inference of Expression using Learning with Direct Supervision](https://arxiv.org/abs/2511.21245).
 - [ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars](https://arxiv.org/abs/2510.05488).
 - [GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals](https://arxiv.org/abs/2509.02141).
 - [FastAvatar: Towards Unified Fast High-Fidelity 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers](https://arxiv.org/abs/2508.19754).
