@@ -220,6 +220,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 - [Imitator: Personalized Speech-driven 3D Facial Animation (ICCV 2023)](https://arxiv.org/abs/2301.00023).
 - [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads (SIGGRAPH 2023)](https://arxiv.org/abs/2305.03027).
 - [ClipFace: Text-guided Editing of Textured 3D Morphable Models (SIGGRAPH 2023)](https://arxiv.org/abs/2212.01406).
+- [SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage (CVPR 2023)](https://arxiv.org/abs/2204.03648).
 - [GANHead: Towards Generative Animatable Neural Head Avatars (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_GANHead_Towards_Generative_Animatable_Neural_Head_Avatars_CVPR_2023_paper.pdf).
 - [Implicit Neural Head Synthesis via Controllable Local Deformation Fields (CVPR 2023)](https://arxiv.org/abs/2304.11113).
 - [DiffusionRig: Learning Personalized Priors for Facial Appearance Editing (CVPR 2023)](https://arxiv.org/abs/2304.06711).
