@@ -118,6 +118,10 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 <details open>
 <summary>List of FLAME-based scientific publications.</summary>
 
+#### 2026
+
+- [3DGeoMeshNet: A multi-scale graph auto-encoder for 3D mesh reconstruction and completion](https://hal.science/hal-05453145v1/file/1-s2.0-S0925231226000494-main.pdf).
+
 #### 2025
 
 - [VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image](https://arxiv.org/abs/2512.14677).
