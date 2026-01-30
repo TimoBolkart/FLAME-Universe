@@ -120,6 +120,11 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2026
 
+- [Combining Facial Videos and Biosignals for Stress Estimation During Driving](https://arxiv.org/abs/2601.04376).
+- [RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation](https://arxiv.org/abs/2601.10606).
+- [MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement](https://arxiv.org/abs/2601.01749).
+- [An Interactive Conversational 3D Virtual Human](https://arxiv.org/abs/2601.13148).
+- [Generalizable and Animatable 3D Full-Head Gaussian Avatar from a Single Image](https://arxiv.org/abs/2601.12770).
 - [3DGeoMeshNet: A multi-scale graph auto-encoder for 3D mesh reconstruction and completion](https://hal.science/hal-05453145v1/file/1-s2.0-S0925231226000494-main.pdf).
 
 #### 2025
