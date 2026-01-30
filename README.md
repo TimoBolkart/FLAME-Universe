@@ -120,6 +120,7 @@ You can also download the model with a bash script such as [fetch_FLAME](https:/
 
 #### 2025
 
+- [VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image](https://arxiv.org/abs/2512.14677).
 - [FIELDS: Face reconstruction with accurate Inference of Expression using Learning with Direct Supervision](https://arxiv.org/abs/2511.21245).
 - [ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars](https://arxiv.org/abs/2510.05488).
 - [GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals](https://arxiv.org/abs/2509.02141).
